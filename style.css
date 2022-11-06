@@ -31,6 +31,7 @@ ul {
 
 body {
   background: #121214 var(--bg) no-repeat top center/cover;
+  background-image: url(./assets/icon=bg-blue.svg);
 }
 
 body * {
@@ -126,12 +127,12 @@ header {
 .card h2,
 .card ul li strong,
 .card ul li img {
-  transition: transform 0.3s;
+  transition: transform 0.9s;
 }
 
 .card {
   opacity: 0;
-  animation: appear 0.2s forwards;
+  animation: appear 0.4s forwards;
 }
 
 @keyframes appear {
