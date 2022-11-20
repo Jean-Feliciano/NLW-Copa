@@ -28,18 +28,8 @@ const gamesList = [
     games: [
       {
         hour: "13:00",
-        player1: "brazil",
-        player2: "uruguay",
-      },
-      {
-        hour: "19:00",
-        player1: "china",
-        player2: "colombia",
-      },
-      {
-        hour: "16:00",
-        player1: "cameroon",
-        player2: "serbia",
+        player1: "qatar",
+        player2: "ecuador",
       },
     ],
   },
@@ -48,20 +38,71 @@ const gamesList = [
     day: "Segunda-feira",
     games: [
       {
+        hour: "10:00",
+        player1: "england",
+        player2: "iran",
+      },
+      {
         hour: "13:00",
-        player1: "brazil",
-        player2: "uruguay",
+        player1: "senegal",
+        player2: "netherlands",
+      },
+      {
+        hour: "16:00",
+        player1: "united states",
+        player2: "wales",
       },
     ],
   },
   {
     date: "22/11",
-    day: "Segunda-feira",
+    day: "Terça-feira",
     games: [
       {
+        hour: "07:00",
+        player1: "argentina",
+        player2: "saudi arabia",
+      },
+      {
+        hour: "10:00",
+        player1: "denmark",
+        player2: "tunisia",
+      },
+      {
         hour: "13:00",
-        player1: "brazil",
-        player2: "uruguay",
+        player1: "mexico",
+        player2: "poland",
+      },
+      {
+        hour: "16:00",
+        player1: "france",
+        player2: "australia",
+      },
+    ],
+  },
+  {
+    date: "25/11",
+    day: "Sexta-feira",
+    games: [
+      {
+        hour: "07:00",
+        player1: "wales",
+        player2: "iran",
+      },
+      {
+        hour: "10:00",
+        player1: "qatar",
+        player2: "senegal",
+      },
+      {
+        hour: "13:00",
+        player1: "senegal",
+        player2: "netherlands",
+      },
+      {
+        hour: "16:00",
+        player1: "england",
+        player2: "united states",
       },
     ],
   },
